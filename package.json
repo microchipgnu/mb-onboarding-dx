@@ -25,6 +25,7 @@
     "react-dom": "^18.1.0",
     "react-hook-form": "^7.13.0",
     "react-jinke-music-player": "^4.24.1",
+    "spectacle": "^9.1.0",
     "subscriptions-transport-ws": "^0.9.19"
   },
   "devDependencies": {
