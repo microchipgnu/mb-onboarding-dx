@@ -1,4 +1,4 @@
-
+# For templates visit our [Templates](https://github.com/mintbase/templates) repo
 
 # Mintbase Boilerplate and Starter for Next JS 12+, Tailwind CSS 3 and TypeScript
 
